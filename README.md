@@ -4,7 +4,7 @@
 FLR_GNN is a Python implementation of my paper, *["Learning Graph Variational Autoencoders with Constraints and Structured Priors for Conditional Indoor 3D Scene Generation"](https://openaccess.thecvf.com/content/WACV2023/papers/Chattopadhyay_Learning_Graph_Variational_Autoencoders_With_Constraints_and_Structured_Priors_for_WACV_2023_paper.pdf),* published in the Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023. This project implements a graph variational autoencoder (VAE) with constraints and structured priors to generate conditional indoor 3D scenes, leveraging graph neural networks (GNNs) for structured scene representation and generation.
 
 ## Preview
-![Preview 1](paper_page.png)
+![Preview 1](FLR_GNN.png)
 
 ## Features
 - **Graph Variational Autoencoder**: Models indoor 3D scenes using a graph-based VAE with structured priors.
